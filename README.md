@@ -3,7 +3,17 @@ Raptorian is a unique multilingual, interpreted, high-level object-oriented prog
 
 # Get started with Raptorian Lang
 
-Download the Raptorian IDE for various platforms:
+
+Download the Raptorian IDE for various platforms: 
+
+# version-0.0.2
+
+- [Raptorian IDE for Windows](https://drive.google.com/file/d/1HGDueOuImM5GpwrCmmmgHdAziM8m3DIP/view?usp=sharing)
+- [Raptorian IDE for macOS](https://drive.google.com/file/d/1XGPz1azPAC4iAqX8VkS9YBxdT5XcpAXA/view?usp=sharing)
+- [Raptorian IDE for Linux](https://drive.google.com/file/d/1ycUSSKn3y-1VzihX3btIujDLp6UeLtJ1/view?usp=sharing)
+- [Raptorian IDE for Android](https://play.google.com/store/apps/details?id=kz.raptorian)
+
+# version-0.0.1
 
 - [Raptorian IDE for Windows](https://drive.google.com/file/d/1rhzMejk7Fvkmv5Q8IwdMJxZN6gR7k3M1/view?usp=sharing)
 - [Raptorian IDE for macOS](https://drive.google.com/file/d/1zrRTwwJoASZ5nP_6BJCQ_5YF9YIq2iS9/view?usp=sharing)
